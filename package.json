@@ -8,7 +8,7 @@
     "start": "node dist/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "usama abdul khalique",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.1",
